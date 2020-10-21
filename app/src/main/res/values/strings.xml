@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MTGAndroidScryfallSearch</string>
+    <string name="search_hint_text">Enter Card Name</string>
+    <string name="search_button_text">Search</string>
 </resources>
